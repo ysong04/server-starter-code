@@ -24,6 +24,8 @@ const Student = db.define("student", {
 
   image: {
     type: Sequelize.STRING,
+    defaultValue:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWBkK3Qr2ItCayAtt6OyznURWjIYHUHs3yw&usqp=CAU",
     allowNull: true
   },
 
