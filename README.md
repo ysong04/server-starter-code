@@ -6,7 +6,7 @@ This repository is the server (back-end) starter code for Final Project (CRUD Ap
 | --------------- | ----------------- |
 | Yoomin Song | ysong04 |
 | Pakeeza Rashid  | Pakeezarashid27 |
-| Asada Rafique | AsadRafique98 |
+| Asad Rafique | AsadRafique98 |
 | Adrian Mok  | adrian-mok15 | 
 
 ### Prerequisites
