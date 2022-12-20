@@ -13,7 +13,7 @@ This repository is the server (back-end) starter code for Final Project (CRUD Ap
 - Install PostgreSQL (Postgres) [[link](https://www.postgresql.org/download/)] - required to run the database
 - Install Postman [[link](https://www.postman.com/downloads/)] - optional tool for API testing 
 
-#YOU MUST INSTALL CORS WITH {npm install cors}
+YOU MUST INSTALL CORS WITH {npm install cors}
 
 ### Use the following steps to set up and run the server (back-end) application on your local machine
 1.	Download the GitHub repository ZIP file to your local machine and unzip it.
