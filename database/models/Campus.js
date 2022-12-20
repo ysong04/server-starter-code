@@ -24,6 +24,7 @@ const Campus = db.define("campus", {
 
   imageUrl: {
     type: Sequelize.STRING,
+    default: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWBkK3Qr2ItCayAtt6OyznURWjIYHUHs3yw&usqp=CAU"
   }
 });
 
